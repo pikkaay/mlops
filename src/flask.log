@@ -1,0 +1,113 @@
+2020-08-23 16:19:00,846 INFO main Thread-6 : predicting request
+2020-08-23 16:19:00,846 INFO werkzeug Thread-6 : 127.0.0.1 - - [23/Aug/2020 16:19:00] "[37mPOST /classifier HTTP/1.1[0m" 200 -
+2020-08-23 16:19:18,913 INFO main Thread-7 : predicting request
+2020-08-23 16:19:18,914 INFO werkzeug Thread-7 : 127.0.0.1 - - [23/Aug/2020 16:19:18] "[37mPOST /classifier HTTP/1.1[0m" 200 -
+2020-08-23 16:19:24,173 INFO main Thread-8 : predicting request
+2020-08-23 16:19:24,174 INFO werkzeug Thread-8 : 127.0.0.1 - - [23/Aug/2020 16:19:24] "[37mPOST /classifier HTTP/1.1[0m" 200 -
+2020-08-23 16:19:29,106 INFO main Thread-9 : predicting request
+2020-08-23 16:19:29,107 INFO werkzeug Thread-9 : 127.0.0.1 - - [23/Aug/2020 16:19:29] "[37mPOST /classifier HTTP/1.1[0m" 200 -
+2020-08-23 16:19:29,420 INFO main Thread-10 : predicting request
+2020-08-23 16:19:29,420 INFO werkzeug Thread-10 : 127.0.0.1 - - [23/Aug/2020 16:19:29] "[37mPOST /classifier HTTP/1.1[0m" 200 -
+2020-08-23 16:19:46,130 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/src/main.py', reloading
+2020-08-23 16:19:46,152 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:19:46,328 INFO main MainThread : Model is loaded
+2020-08-23 16:19:46,335 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:19:46,340 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:20:03,525 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/src/main.py', reloading
+2020-08-23 16:20:03,549 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:20:03,742 INFO main MainThread : Model is loaded
+2020-08-23 16:20:03,749 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:20:03,753 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:20:13,515 INFO werkzeug Thread-2 : 127.0.0.1 - - [23/Aug/2020 16:20:13] "[31m[1mPOST /health HTTP/1.1[0m" 405 -
+2020-08-23 16:20:39,128 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/src/main.py', reloading
+2020-08-23 16:20:39,153 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:20:39,357 INFO main MainThread : Model is loaded
+2020-08-23 16:20:39,364 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:20:39,368 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:20:45,761 INFO werkzeug Thread-2 : 127.0.0.1 - - [23/Aug/2020 16:20:45] "[31m[1mPOST /health HTTP/1.1[0m" 405 -
+2020-08-23 16:20:50,084 INFO werkzeug Thread-3 : 127.0.0.1 - - [23/Aug/2020 16:20:50] "[35m[1mGET /health HTTP/1.1[0m" 500 -
+2020-08-23 16:20:54,101 INFO werkzeug Thread-4 : 127.0.0.1 - - [23/Aug/2020 16:20:54] "[31m[1mPOST /health HTTP/1.1[0m" 405 -
+2020-08-23 16:20:58,035 INFO werkzeug Thread-5 : 127.0.0.1 - - [23/Aug/2020 16:20:58] "[31m[1mPOST /health HTTP/1.1[0m" 405 -
+2020-08-23 16:22:34,892 INFO werkzeug Thread-6 : 127.0.0.1 - - [23/Aug/2020 16:22:34] "[35m[1mGET /health HTTP/1.1[0m" 500 -
+2020-08-23 16:22:51,738 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/src/main.py', reloading
+2020-08-23 16:22:51,766 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:22:51,976 INFO main MainThread : Model is loaded
+2020-08-23 16:22:51,983 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:22:51,988 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:22:54,935 INFO main MainThread : Model is loaded
+2020-08-23 16:22:54,944 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-08-23 16:22:54,945 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:22:55,132 INFO main MainThread : Model is loaded
+2020-08-23 16:22:55,139 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:22:55,144 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:25:33,859 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/src/main.py', reloading
+2020-08-23 16:25:33,887 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:25:34,094 INFO main MainThread : Model is loaded
+2020-08-23 16:25:34,102 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:25:34,106 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:25:36,128 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/src/main.py', reloading
+2020-08-23 16:25:36,153 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:25:36,327 INFO main MainThread : Model is loaded
+2020-08-23 16:25:36,334 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:25:36,339 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:25:41,392 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/src/main.py', reloading
+2020-08-23 16:25:41,416 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:25:41,586 INFO main MainThread : Model is loaded
+2020-08-23 16:25:41,592 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:25:41,597 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:28:03,012 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/src/main.py', reloading
+2020-08-23 16:28:03,032 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:28:03,236 INFO main MainThread : Model is loaded
+2020-08-23 16:28:03,242 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:28:03,247 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:28:28,173 INFO werkzeug Thread-2 : 127.0.0.1 - - [23/Aug/2020 16:28:28] "[35m[1mGET /health HTTP/1.1[0m" 500 -
+2020-08-23 16:29:56,415 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/src/main.py', reloading
+2020-08-23 16:29:56,438 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:29:56,657 INFO main MainThread : Model is loaded
+2020-08-23 16:29:56,666 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:29:56,672 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:30:02,947 INFO main MainThread : Model is loaded
+2020-08-23 16:30:02,955 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-08-23 16:30:02,956 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:30:03,142 INFO main MainThread : Model is loaded
+2020-08-23 16:30:03,150 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:30:03,155 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:30:05,739 INFO werkzeug Thread-2 : 127.0.0.1 - - [23/Aug/2020 16:30:05] "[33mGET /health HTTP/1.1[0m" 404 -
+2020-08-23 16:30:11,586 INFO werkzeug Thread-3 : 127.0.0.1 - - [23/Aug/2020 16:30:11] "[33mGET /health HTTP/1.1[0m" 404 -
+2020-08-23 16:30:18,122 INFO werkzeug Thread-4 : 127.0.0.1 - - [23/Aug/2020 16:30:18] "[35m[1mGET /hcheck HTTP/1.1[0m" 500 -
+2020-08-23 16:31:13,892 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/src/main.py', reloading
+2020-08-23 16:31:13,928 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:31:14,132 INFO main MainThread : Model is loaded
+2020-08-23 16:31:14,139 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:31:14,144 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:31:46,960 INFO main MainThread : Model is loaded
+2020-08-23 16:31:46,969 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-08-23 16:31:46,970 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:31:47,156 INFO main MainThread : Model is loaded
+2020-08-23 16:31:47,163 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:31:47,168 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:31:50,601 INFO werkzeug Thread-2 : 127.0.0.1 - - [23/Aug/2020 16:31:50] "[35m[1mGET /hcheck HTTP/1.1[0m" 500 -
+2020-08-23 16:31:54,242 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/src/main.py', reloading
+2020-08-23 16:31:54,269 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:31:54,458 INFO main MainThread : Model is loaded
+2020-08-23 16:31:54,466 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:31:54,471 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:33:31,538 INFO werkzeug Thread-2 : 127.0.0.1 - - [23/Aug/2020 16:33:31] "[35m[1mGET /hcheck HTTP/1.1[0m" 500 -
+2020-08-23 16:36:33,313 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/dev-env/lib/python3.7/site-packages/healthcheck/__init__.py', reloading
+2020-08-23 16:36:33,340 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:56:29,804 INFO main MainThread : Model is loaded
+2020-08-23 16:56:29,816 INFO werkzeug MainThread :  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-08-23 16:56:29,817 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:56:30,004 INFO main MainThread : Model is loaded
+2020-08-23 16:56:30,023 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:56:30,030 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
+2020-08-23 16:56:33,218 INFO werkzeug Thread-2 : 127.0.0.1 - - [23/Aug/2020 16:56:33] "[33mGET /health HTTP/1.1[0m" 404 -
+2020-08-23 16:56:34,248 INFO werkzeug Thread-3 : 127.0.0.1 - - [23/Aug/2020 16:56:34] "[33mGET /health HTTP/1.1[0m" 404 -
+2020-08-23 16:56:40,219 INFO werkzeug Thread-4 : 127.0.0.1 - - [23/Aug/2020 16:56:40] "[37mGET /hcheck HTTP/1.1[0m" 200 -
+2020-08-23 16:56:49,323 INFO werkzeug Thread-5 : 127.0.0.1 - - [23/Aug/2020 16:56:49] "[31m[1mPOST /hcheck HTTP/1.1[0m" 405 -
+2020-08-23 16:56:53,033 INFO werkzeug Thread-6 : 127.0.0.1 - - [23/Aug/2020 16:56:53] "[37mGET /hcheck HTTP/1.1[0m" 200 -
+2020-08-23 16:58:50,447 INFO werkzeug MainThread :  * Detected change in '/Users/midhunpk/Documents/github/dev/src/main.py', reloading
+2020-08-23 16:58:50,473 INFO werkzeug MainThread :  * Restarting with stat
+2020-08-23 16:58:50,667 INFO main MainThread : Model is loaded
+2020-08-23 16:58:50,677 WARNING werkzeug MainThread :  * Debugger is active!
+2020-08-23 16:58:50,681 INFO werkzeug MainThread :  * Debugger PIN: 179-811-135
