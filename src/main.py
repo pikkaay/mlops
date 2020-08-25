@@ -17,7 +17,6 @@ def howami():
 health.add_check(howami) 
 
 
-
 @app.route('/classifier', methods=['POST'])
 def predict():
 	app.logger.info('predicting request')
