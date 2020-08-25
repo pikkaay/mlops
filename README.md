@@ -4,8 +4,8 @@ Deploying ML models at scale in kubernetes cluster
 
 ## Includes
 
-1. Simple Flask application which serve http request<br />
-2. Health check GET method to get status of the Flask app<br />
+1. Simple Flask application which serves http request<br />
+2. GET method for Health check<br />
 3. Dockerfile to build docker image<br />
 4. Configuration yaml files for kubernetes deployments<br />
 
@@ -15,7 +15,6 @@ Working directory ./mlops/src/
 docker build ti appname:latest .
 docker run -d -p 5000:5000 appname:latest
 ```
-
 Test the API using curl
 ```bash
 curl localhost:5000/hcheck 
@@ -45,3 +44,8 @@ Output will look like this
 NAME        TYPE           CLUSTER-IP    EXTERNAL-IP     PORT(S)          AGE
 flask-app   LoadBalancer   xx.xx.xx.xx   xx.xx.xx.xx     5000:xxxx/TCP    20s
 ```
+
+In the flask app (`main.py`), add a POST method to get prediction from a real ML model.<br /> 
+Change the kubernetese yaml configuration files to A/B test the model versions and to play with additional nodes and pods as well<br />
+Test the latency and load balancer with JMeter
+
